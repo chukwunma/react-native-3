@@ -10,7 +10,7 @@ class Directory extends Component {
         this.state = {
             campsites: CAMPSITES
         };
-    }
+    };
 
     static navigationOptions = {
         title: 'Directory'

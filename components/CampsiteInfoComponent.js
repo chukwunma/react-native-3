@@ -14,6 +14,7 @@ function RenderCampsite({campsite}) {
                 <Text style={{margin: 10}}>
                     {campsite.description}
                 </Text>
+                <Text>1</Text>
             </Card>
         );
     }
